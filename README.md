@@ -11,7 +11,14 @@
 ### Languages
 
 [![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+[![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
 [![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
+[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
+![Android](https://img.shields.io/badge/-Android%20Studio-000?&logo=android%20studio&logoColor=green)
+
+### Tools & Technologies
+
+![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=android%20studio&logoColor=green)
+![GIT](https://img.shields.io/badge/-git-000?&logo=git&logoColor=fff)
