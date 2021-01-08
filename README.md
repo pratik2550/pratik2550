@@ -1,7 +1,6 @@
 <div align="center">
-  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/pratik2550/pratik-patle/blob/main/screedbot.gif" width="30px"></h2>
+  <h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/pratik2550/pratik-patle/blob/main/screedbot.gif" width="300px"></h2>
 </div>
-<h2>👋 I'm Pratik</h2>
 # I am an Android Developer.</br>
 <!--- ![brightgreen](https://komarev.com/ghpvc/?username=pratik2550) --->
 - 🔨 I’m currently working on my Android Projects.</br>
