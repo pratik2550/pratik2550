@@ -8,22 +8,31 @@
 - 💬 Ask me about  anything related to Android.</br>
 - 🎮 In free time you'll find me playing video game.</br>
 
+### Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pratikpatle)
+[![Instagram](https://img.shields.io/badge/-Instagram-dd2a7b?&logo=instagram&logoColor=white](https://www.instagram.com/kingsman_pratik/)
+[![Discord](https://img.shields.io/badge/-Discord-7289d9?&logo=discord&logoColor=white)](https://discordapp.com/users/606059445390147584/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/pratikpatle2550)
+
 ### Languages
 
-[![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
-[![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=007396)](https://github.com/adamalston?tab=repositories&q=&type=&language=java)
-[![C](https://img.shields.io/badge/-C-000?&logo=C)](https://github.com/adamalston?tab=repositories&q=&type=&language=c)
+![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
+![Kotlin](https://img.shields.io/badge/-Kotlin-000?&logo=Kotlin&logoColor=007396)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-[![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
+![Python](https://img.shields.io/badge/-Python-000?&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
 
 ### Tools & Technologies
 
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=android%20studio&logoColor=green)
+![Firebase](https://img.shields.io/badge/-Firebase-000?&logo=firebase&logoColor=FFCB2B)
 ![GIT](https://img.shields.io/badge/-git-000?&logo=git&logoColor=fff)
 ![GITHUB](https://img.shields.io/badge/-GitHub-000?&logo=github&logoColor=white)
 ![ECLIPS](https://img.shields.io/badge/-Eclips%20IDE-2c2157?&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-gray?&logo=visual%20studio%20code&logoColor=50b2f3)
+![LINUX](https://img.shields.io/badge/-Linux-000?&logo=linux&logoColor=white)
 
 ### Projects
 
