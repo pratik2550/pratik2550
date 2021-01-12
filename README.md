@@ -11,7 +11,7 @@
 ### Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/pratikpatle)
-[![Instagram](https://img.shields.io/badge/-Instagram-dd2a7b?&logo=instagram&logoColor=white](https://www.instagram.com/kingsman_pratik/)
+[![Instagram](https://img.shields.io/badge/-Instagram-dd2a7b?&logo=instagram&logoColor=white)](https://www.instagram.com/kingsman_pratik/)
 [![Discord](https://img.shields.io/badge/-Discord-7289d9?&logo=discord&logoColor=white)](https://discordapp.com/users/606059445390147584/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?&logo=twitter&logoColor=white)](https://twitter.com/pratikpatle2550)
 
