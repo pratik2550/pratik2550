@@ -34,5 +34,16 @@
 ![VSCode](https://img.shields.io/badge/-VS%20Code-gray?&logo=visual%20studio%20code&logoColor=50b2f3)
 ![LINUX](https://img.shields.io/badge/-Linux-000?&logo=linux&logoColor=white)
 
+### Projects
+
+[![GROXERYUP](https://github-readme-stats.vercel.app/api/pin/?username=pratik2550&repo=GroceryApp&theme=dark)](https://github.com/pratik2550/GroceryApp)
+<br/>
+<br/>
+[![SAVANT](https://github-readme-stats.vercel.app/api/pin/?username=pratik2550&repo=Savant-App&theme=dark)](https://github.com/pratik2550/Savant-App)
+<br/>
+<br/>
+[![CHIT CHAT](https://github-readme-stats.vercel.app/api/pin/?username=pratik2550&repo=Chit-Chat-App&theme=dark)](https://github.com/pratik2550/Chit-Chat-App)
+<br/>
+
 ### Github Stats
 <a href=""><img height="137px" src="https://github-readme-stats.vercel.app/api?username=pratik2550&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /><!-- wi*quL3fcV --></a>
