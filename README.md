@@ -16,7 +16,6 @@
 ![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
 [![Python](https://img.shields.io/badge/-Python-000?&logo=python)](https://github.com/adamalston?tab=repositories&q=&type=&language=python)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&logoColor=4479A1)
-![Android](https://img.shields.io/badge/-Android%20Studio-000?&logo=android%20studio&logoColor=green)
 
 ### Tools & Technologies
 
