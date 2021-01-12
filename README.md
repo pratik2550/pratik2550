@@ -22,3 +22,6 @@
 
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-000?&logo=android%20studio&logoColor=green)
 ![GIT](https://img.shields.io/badge/-git-000?&logo=git&logoColor=fff)
+![GITHUB](https://img.shields.io/badge/-GitHub-000?&logo=github&logoColor=white)
+![ECLIPS](https://img.shields.io/badge/-Eclips%20IDE-2c2157?&logo=eclipse&logoColor=white)
+![VSCode](https://img.shields.io/badge/-VS%20Code-gray?&logo=visual%20studio%20code&logoColor=50b2f3)
