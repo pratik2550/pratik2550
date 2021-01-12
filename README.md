@@ -25,5 +25,16 @@
 ![ECLIPS](https://img.shields.io/badge/-Eclips%20IDE-2c2157?&logo=eclipse&logoColor=white)
 ![VSCode](https://img.shields.io/badge/-VS%20Code-gray?&logo=visual%20studio%20code&logoColor=50b2f3)
 
+### Projects
+
+[![GROXERYUP](https://github-readme-stats.vercel.app/api/pin/?username=pratik2550&repo=GroxeryUp&theme=dark)](https://github.com/pratik2550/GroceryApp)
+<br/>
+<br/>
+[![SAVANT](https://github-readme-stats.vercel.app/api/pin/?username=pratik2550&repo=Savant&theme=dark)](https://github.com/pratik2550/Savant-App)
+<br/>
+<br/>
+[![CHIT CHAT](https://github-readme-stats.vercel.app/api/pin/?username=pratik2550&repo=Chit-Chat&theme=dark)](https://github.com/pratik2550/Chit-Chat-App)
+<br/>
+
 ### Github Stats
 <a href=""><img height="137px" src="https://github-readme-stats.vercel.app/api?username=pratik2550&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV --></a>
