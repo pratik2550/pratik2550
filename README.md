@@ -49,4 +49,4 @@
 <a href=""><img height="137px" src="https://github-readme-stats.vercel.app/api?username=pratik2550&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /><!-- wi*quL3fcV --></a>
 
 ### :rocket:  Most used languages
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suvansh-rana&hide=dart&hide_title=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pratik2550&hide=dart&hide_title=true&theme=dark)](https://github.com/pratik2550/github-readme-stats)
