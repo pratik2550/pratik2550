@@ -35,7 +35,6 @@
 <!--![GITHUB](https://img.shields.io/badge/-GitHub-000?&logo=github&logoColor=white)-->
 
 ### Projects
-
 [![GROXERYUP](https://github-readme-stats.vercel.app/api/pin/?username=pratik2550&repo=GroceryApp&theme=dark)](https://github.com/pratik2550/GroceryApp)[![SAVANT](https://github-readme-stats.vercel.app/api/pin/?username=pratik2550&repo=Savant-App&theme=dark)](https://github.com/pratik2550/Savant-App)
 <br/>
 <br/>
