@@ -35,7 +35,7 @@
 <!--![GITHUB](https://img.shields.io/badge/-GitHub-000?&logo=github&logoColor=white)-->
 
 ### Projects
-[![GROXERYUP](https://github-readme-stats.vercel.app/api/pin/?username=pratik2550&repo=GroceryApp&theme=dark)](https://github.com/pratik2550/GroceryApp)
+[![GROXERYUP](https://github-readme-stats.vercel.app/api/pin/?username=pratik2550&repo=GroceryApp&theme=dark)](https://github.com/pratik2550/GroceryApp)&nbsp;&nbsp;
 [![CHIT CHAT](https://github-readme-stats.vercel.app/api/pin/?username=pratik2550&repo=Chit-Chat-App&theme=dark)](https://github.com/pratik2550/Chit-Chat-App)
 <br/>
 <br/>
@@ -43,4 +43,4 @@
 <br/>
 
 ### Github Stats
-<p><a href="https://github.com/pratik2550/pratik2550"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=pratik2550&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /><!-- wi*quL3fcV -->          <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik2550&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /></a></p>
+<p><a href="https://github.com/pratik2550/pratik2550"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=pratik2550&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /><!-- wi*quL3fcV -->&nbsp;&nbsp;          <img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratik2550&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" /></a></p>
